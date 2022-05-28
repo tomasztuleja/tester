@@ -32,3 +32,4 @@ Astronomiczna eksploatacja teleskopu, zarządzana ze Space Telescope Science Ins
 To właśnie wtedy NASA spodziewa się opublikować pierwszą partię zdjęć uchwyconych przez Webba. Na razie naukowcy nie chcą zdradzać, gdzie w pierwszej kolejności zamierzają skierować teleskop. Według planów instrument ma działać do 10 lat.
 
 test test
+test 2
